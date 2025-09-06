@@ -2,3 +2,4 @@ google.com, pub-7334336620095213, DIRECT, f08c47fec0942fa0
 ##Mobfox##
 uis.mobfox.com, 2472, DIRECT, 5529a3d1f59865be
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
+facebook.com, 1530443117941431, DIRECT, c3e20eee3f780d68
